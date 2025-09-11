@@ -138,7 +138,7 @@ dependencies:
   - zlib=1.2.13=h166bdaf_4
   - zstd=1.5.2=hfc55251_7
   - pip:
-    - biopython=
+    - biopython
     - brotlipy
     - cffi
     - comm
