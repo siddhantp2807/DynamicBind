@@ -169,7 +169,6 @@ dependencies:
     - mpmath
     - nest-asyncio
     - networkx
-    - numpy
     - opt-einsum
     - opt-einsum-fx
     - pandas
